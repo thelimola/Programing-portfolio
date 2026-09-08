@@ -1,0 +1,8 @@
+This project was largely a test to make a hover craft that could race around.
+
+This project has:
+-player body which reacts to the ground based on distance and keeps the player stable
+-Camera that responds to player movements
+
+Video showcasing this project:
+https://www.youtube.com/watch?v=rFkQurd_oMk

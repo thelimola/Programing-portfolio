@@ -1,0 +1,10 @@
+Orbital Mechanics is my on going project:
+
+currently this project has:
+-rudimentary gravity setup between objects
+-A player model that can walk on these objects with respect to their local gravity field
+-Space ship prototype that can maneuver however it wants
+
+videos showcasing this project:
+https://www.youtube.com/watch?v=ruDNlMOmE1s  - planets orbiting
+https://www.youtube.com/watch?v=Kx1SUdP2IRc  - player testing
